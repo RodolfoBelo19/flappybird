@@ -22,7 +22,7 @@ public class FlappyBird implements ActionListener {
 	public FlappyBird() {
 		JFrame jframe = new JFrame();
 		Timer timer = new Timer(20, this);
-		
+		//test repo
 		renderer = new Renderer();
 		
 		jframe.add(renderer);
